@@ -1,0 +1,10 @@
+# 需要抓取的Boss直聘岗位链接列表
+job_links:
+  - https://www.zhipin.com/job_detail/447f8a0b330843861H1829-7EFBU.html
+  - https://www.zhipin.com/job_detail/b74301a9e1e9f1fb03By2N68EFpW.html
+  - https://www.zhipin.com/job_detail/a147d8bfa50124d903B_3dW0EVBX.html
+
+# 输出配置
+output:
+  dir: ./job_details
+  format: csv  # 可选: json 或 csv
